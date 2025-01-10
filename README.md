@@ -16,6 +16,9 @@
     <a href="" target="_blank">
       <img src="https://img.shields.io/badge/Vue.js-0081CB?style=for-the-badge&logo=vue.js&logoColor=green" target="_blank">
     </a>
+    <a href="" target="_blank">
+      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" target="_blank">
+    </a>
   </div>
 
   <!-- Backend Technologies -->
@@ -36,13 +39,15 @@
     <a href="" target="_blank">
       <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" target="_blank">
     </a>
+    <a href="" target="_blank">
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" target="_blank">
+    </a>
   </div>
 </div>
-
-  </div>
 
 ## <h1 align="center">📊 GitHub Stats:</h1>
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gokev06&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokev06&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
